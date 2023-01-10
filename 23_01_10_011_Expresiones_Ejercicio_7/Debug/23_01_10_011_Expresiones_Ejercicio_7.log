@@ -1,0 +1,5 @@
+﻿  23_01_10_011_Expresiones_Ejercicio_7.cpp
+D:\DSI208\Escritorio\Programacion_estructurada\23_01_10_011_Expresiones_Ejercicio_7\23_01_10_011_Expresiones_Ejercicio_7.cpp(16,21): warning C4305: '*=': truncamiento de 'double' a 'float'
+D:\DSI208\Escritorio\Programacion_estructurada\23_01_10_011_Expresiones_Ejercicio_7\23_01_10_011_Expresiones_Ejercicio_7.cpp(17,20): warning C4305: '*=': truncamiento de 'double' a 'float'
+D:\DSI208\Escritorio\Programacion_estructurada\23_01_10_011_Expresiones_Ejercicio_7\23_01_10_011_Expresiones_Ejercicio_7.cpp(18,26): warning C4305: '*=': truncamiento de 'double' a 'float'
+  23_01_10_011_Expresiones_Ejercicio_7.vcxproj -> D:\DSI208\Escritorio\Programacion_estructurada\23_01_10_011_Expresiones_Ejercicio_7\Debug\23_01_10_011_Expresiones_Ejercicio_7.exe
