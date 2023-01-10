@@ -14,6 +14,7 @@ int main()
 
     resultado = (a / b) + 1;
 
+    cout.precision(2);
     cout << "/nEl resultado es:" << resultado << endl;
 
     return 0;
